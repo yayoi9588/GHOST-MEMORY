@@ -357,3 +357,20 @@ Desktop.ini
 #
 # Also DO NOT ignore normal *.meta files.
 # Unity uses .meta files to maintain GUID references between assets.
+
+# ========================================
+# GHOST-MEMORY Unity project
+# ========================================
+
+/GM/[Ll]ibrary/
+/GM/[Tt]emp/
+/GM/[Oo]bj/
+/GM/[Ll]ogs/
+/GM/[Uu]ser[Ss]ettings/
+
+# Visual Studio / IDE generated files
+/GM/.vs/
+/GM/*.csproj
+/GM/*.sln
+/GM/*.slnx
+/GM/*.user
